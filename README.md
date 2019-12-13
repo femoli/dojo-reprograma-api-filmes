@@ -1,5 +1,5 @@
-# n3-api-sextou
-API surpresa de sexta-feira pra fechar a Semana 10 com chave de ouro
+# dojo-api-netflix
+Dojo da turma de backend {reprograma}.
 
 ## Passo a passo pra criar a API:
 - README.md
