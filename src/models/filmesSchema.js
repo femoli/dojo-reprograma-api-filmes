@@ -30,5 +30,5 @@ const filmesSchema = new Schema({
         
 })
 
-const filmesCollection = mongoose.model('filme', filmesSchema)
+const filmesCollection = mongoose.model('filmes', filmesSchema)
 module.exports = filmesCollection

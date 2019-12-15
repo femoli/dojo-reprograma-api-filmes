@@ -1,4 +1,4 @@
-# dojo-api-netflix
+# dojo-api-filmes
 Dojo da turma de backend {reprograma}.
 
 ## Passo a passo pra criar a API:
